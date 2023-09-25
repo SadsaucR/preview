@@ -1,1 +1,2 @@
-# Simple Input/Output
+# 資料型態
+# 簡易輸入輸出
