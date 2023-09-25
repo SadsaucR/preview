@@ -27,5 +27,17 @@
     <ClCompile Include="L1_3.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="L1_4.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L1_5.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L1_6.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L1_7.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -131,6 +131,10 @@
     <ClCompile Include="L1.c" />
     <ClCompile Include="L1_2.c" />
     <ClCompile Include="L1_3.c" />
+    <ClCompile Include="L1_4.c" />
+    <ClCompile Include="L1_5.c" />
+    <ClCompile Include="L1_6.c" />
+    <ClCompile Include="L1_7.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
